@@ -1,4 +1,5 @@
-#include "pch.h"
+#include <stdio.h>
+#include <Windows.h>
 #define DLL_EXPORT
 #include "mydll.h"
 
